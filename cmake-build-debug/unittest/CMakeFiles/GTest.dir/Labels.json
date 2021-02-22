@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/CMakeFiles/GTest"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/CMakeFiles/GTest.rule"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/CMakeFiles/GTest-complete.rule"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/GTest-prefix/src/GTest-stamp/GTest-install.rule"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/GTest-prefix/src/GTest-stamp/GTest-mkdir.rule"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/GTest-prefix/src/GTest-stamp/GTest-download.rule"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/GTest-prefix/src/GTest-stamp/GTest-update.rule"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/GTest-prefix/src/GTest-stamp/GTest-patch.rule"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/GTest-prefix/src/GTest-stamp/GTest-configure.rule"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/GTest-prefix/src/GTest-stamp/GTest-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"GTest"
+		],
+		"name" : "GTest"
+	}
+}

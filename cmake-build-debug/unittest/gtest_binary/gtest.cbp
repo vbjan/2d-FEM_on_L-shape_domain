@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="gtest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main">
+				<Option output="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_source/include"/>
+					<Add directory="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_source"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main/fast">
+				<Option output="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_source/include"/>
+					<Add directory="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_source"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_source/include"/>
+					<Add directory="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_source"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_source/include"/>
+					<Add directory="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_source"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_binary/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_source/src/gtest-all.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_source/src/gtest_main.cc">
+			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_source/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/gtest_source/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

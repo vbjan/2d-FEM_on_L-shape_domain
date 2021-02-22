@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/CMakeFiles/IGL"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/CMakeFiles/IGL.rule"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/CMakeFiles/IGL-complete.rule"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/IGL-prefix/src/IGL-stamp/IGL-install.rule"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/IGL-prefix/src/IGL-stamp/IGL-mkdir.rule"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/IGL-prefix/src/IGL-stamp/IGL-download.rule"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/IGL-prefix/src/IGL-stamp/IGL-update.rule"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/IGL-prefix/src/IGL-stamp/IGL-patch.rule"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/IGL-prefix/src/IGL-stamp/IGL-configure.rule"
+		},
+		{
+			"file" : "/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/IGL-prefix/src/IGL-stamp/IGL-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"IGL"
+		],
+		"name" : "IGL"
+	}
+}

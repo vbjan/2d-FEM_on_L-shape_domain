@@ -1,0 +1,9 @@
+/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/CMakeFiles/fem2d.dir
+/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/CMakeFiles/IGL.dir
+/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/CMakeFiles/Eigen.dir
+/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/CMakeFiles/rebuild_cache.dir
+/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/CMakeFiles/edit_cache.dir
+/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/CMakeFiles/unittest.dir
+/Users/jan-philippvonbassewitz/Documents/Studium/Semester_5/Computation/project2_2020_handout/2d-linFEM/cmake-build-debug/unittest/CMakeFiles/GTest.dir

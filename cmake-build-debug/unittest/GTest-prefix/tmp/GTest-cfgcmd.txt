@@ -1,0 +1,1 @@
+cmd='/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake;-Dgtest_force_shared_crt=ON;-GCodeBlocks - Unix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
